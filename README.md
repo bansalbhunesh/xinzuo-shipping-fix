@@ -45,7 +45,7 @@ Same bug exists in `cart-summary.liquid` (the /cart page), which also had a typo
 
 ## Loom
 
-> **TODO**: Paste your Loom URL here
+https://www.loom.com/share/9fb2ab81bd2940398271d762cfa37191
 
 ## How I found it
 
